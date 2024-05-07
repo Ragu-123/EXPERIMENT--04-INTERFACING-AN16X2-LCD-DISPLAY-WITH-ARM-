@@ -266,7 +266,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## Output screen shots of proteus  :
-![lcd](https://github.com/d-kavinraja/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119875375/92e3b0e7-8019-4674-998d-47ddd88bed20)
+![PMC(EXP4)](https://github.com/Ragu-123/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/113915622/12776b73-3c25-4233-a075-cca76d9c43cf)
  
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
